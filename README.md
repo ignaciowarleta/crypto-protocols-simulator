@@ -46,17 +46,6 @@ El proyecto cubre conceptos clave como:
 
 ------------------------------------------------------------------------
 
-## Estructura del proyecto
-
-crypto-protocols-simulator/
-
-├── src/ │ ├── blockchain/ │ ├── protocols/ │ ├── crypto/ │ └── utils/ │
-├── examples/ ├── tests/ └── main.py
-
-(Ajustar según la estructura real del repositorio)
-
-------------------------------------------------------------------------
-
 ## Instalación
 
 git clone
